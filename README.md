@@ -1,2 +1,2 @@
 # MicroMan
-a system to manage micro services and rpc services
+a system to manage your micro services and rpc services
